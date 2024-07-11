@@ -3,7 +3,7 @@ A bitcoin toolkit for calculating public keys, public key hashes, P2PKH addresse
 
 Implemented via Python.
 
-For personal reasons, this a not open-source project yet. If you are concerned about privacy issues, please run this programme on a computer without Internet connection.
+For personal reasons, this a not open-source project yet. If you are concerned about privacy issues, please run this program on a computer without Internet connection.
 
 
 # User panel
