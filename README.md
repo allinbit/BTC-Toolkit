@@ -5,6 +5,8 @@ Implemented via Python.
 
 For personal reasons, this a not open-source project yet. If you are concerned about privacy issues, please run this program on a computer without Internet connection.
 
+If more people use this program, the program will be made open source.
+
 
 # User panel
 ![](https://github.com/allinbit/BTC_Toolkit/blob/main/User%20panel.png)
